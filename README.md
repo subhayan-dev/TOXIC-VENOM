@@ -59,5 +59,5 @@ A cloud based remote android managment suite, powered by NodeJS
  - [Leaflet](https://leafletjs.com/)
 
 ## Disclaimer
-<b>I ( TOXIC-VENOM BY @TOXIC_HACKER-786)  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>I ( AUTHOR OF THIS PROJECT )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 TOXIC-VENOM is built for both Educational and Internal use ONLY.</b>
