@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/TOXIC-HACKER/TOXIC-VENOM/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based remote android managment suite, powered by TOXIC-HACKER && NodeJS
+A cloud based remote android managment suite, powered by NodeJS
 </p>
 
 
